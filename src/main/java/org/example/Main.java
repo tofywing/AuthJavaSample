@@ -35,10 +35,6 @@ public class Main {
     private static Runnable task;
 
     public static void main(String[] args) {
-
-
-
-
         bindService();
         initExecutor();
         initTask();
