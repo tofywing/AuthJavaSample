@@ -1,4 +1,4 @@
-This project is to simulation the authenticate operation
+Authenticate operation simulation running in Java enviroment
 
 Enter ‘help’ for the command list.
 
